@@ -1,0 +1,1 @@
+# tcad_simulation-ifet_vs_cfet_parameters_comparision
